@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript: a stack overflow caused by exceeding the recursion limit in a recursive function. The `bug.vbs` file contains the erroneous code. The `bugSolution.vbs` file provides a corrected version using iteration to avoid recursion.
